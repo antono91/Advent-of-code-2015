@@ -13,16 +13,17 @@ def main():
             distances[(p2, p1)] = int(dist)
     print(solve(places, distances))
 
+
 def solve(places, distances):
     shortest = int(1e6)
     longest = 0
     for path in permutations(places):
         dist = 0
-        d = sum(distances[(p1, p2)] for p1, p2 in zip(list(path), list(path)[1:]))
+        d = sum(distances[(p1, p2)]
+                for p1, p2 in zip(list(path), list(path)[1:]))
         shortest = min(d, shortest)
         longest = max(d, longest)
     return shortest, longest
-
 
 
 if __name__ == '__main__':
