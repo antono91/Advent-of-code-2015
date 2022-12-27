@@ -1,4 +1,3 @@
-import math
 import re
 
 
@@ -18,11 +17,13 @@ def solve(lines):
                 score = 1
                 calories = 0
                 for i in range(4):
-                    s = p1 * ingredients[0][i] + p2 * ingredients[1][i] + p3 * ingredients[2][i] + p4 * ingredients[3][i]
-                    calories = p1 * ingredients[0][4] + p2 * ingredients[1][4] + p3 * ingredients[2][4]+ p4 * ingredients[3][4]
+                    s = p1 * ingredients[0][i] + p2 * ingredients[1][i] + p3 * ingredients[2][i] + p4 * ingredients[3][
+                        i]
+                    calories = p1 * ingredients[0][4] + p2 * ingredients[1][4] + p3 * ingredients[2][4] + p4 * \
+                               ingredients[3][4]
                     score *= s if s > 0 else 0
                 if calories == 500:
-                        part2 = max(part2, score)
+                    part2 = max(part2, score)
                 part1 = max(part1, score)
 
     return part1, part2
