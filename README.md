@@ -2,8 +2,8 @@
 
 My solutions to the [Advent of Code](https://www.adventofcode.com/2015) challenges of 2015.
 
-| Day | Name                                   | Solution Link        | Challenge Link                                       | Part1  | Part2  | 
-|-----|----------------------------------------|----------------------|------------------------------------------------------|:------:|:------:|
+| Day | Name                                   | Solution Link        | Challenge Link                                       | Part1  | Part2  |
+| --- | -------------------------------------- | -------------------- | ---------------------------------------------------- | :----: | :----: |
 | 1   | Not Quite Lisp                         | [Solution](day01.py) | [Challenge](https://www.adventofcode.com/2015/day1)  | :star: | :star: |
 | 2   | I Was Told There Would Be No Math      | [Solution](day02.py) | [Challenge](https://www.adventofcode.com/2015/day2)  | :star: | :star: |
 | 3   | Perfectly Spherical Houses in a Vacuum | [Solution](day03.py) | [Challenge](https://www.adventofcode.com/2015/day3)  | :star: | :star: |
@@ -19,5 +19,6 @@ My solutions to the [Advent of Code](https://www.adventofcode.com/2015) challeng
 | 13  | Knights of the Dinner Table            | [Solution](day13.py) | [Challenge](https://www.adventofcode.com/2015/day13) | :star: | :star: |
 | 14  | Reindeer Olympics                      | [Solution](day14.py) | [Challenge](https://www.adventofcode.com/2015/day14) | :star: | :star: |
 | 15  | Science for Hungry People              | [Solution](day15.py) | [Challenge](https://www.adventofcode.com/2015/day15) | :star: | :star: |
-                                                                                             
-
+| 16  | Aunt Sue                               | [Solution](day16.py) | [Challenge](https://www.adventofcode.com/2015/day16) | :star: | :star: |
+| 17  | No Such Thing as Too Much              | [Solution](day17.py) | [Challenge](https://www.adventofcode.com/2015/day17) | :star: | :star: |
+| 18  | Like a GIF For Your Yard               | [Solution](day18.py) | [Challenge](https://www.adventofcode.com/2015/day18) | :star: | :star: |
