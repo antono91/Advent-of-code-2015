@@ -24,3 +24,4 @@ My solutions to the [Advent of Code](https://www.adventofcode.com/2015) challeng
 | 18  | Like a GIF For Your Yard               | [Solution](day18.py) | [Challenge](https://www.adventofcode.com/2015/day18) | :star: | :star: |
 | 19  | Medicine for Rudolph                   | [Solution](day19.py) | [Challenge](https://www.adventofcode.com/2015/day19) | :star: |        |
 | 20  | Infinite Elves and Infinite Houses     | [Solution](day20.py) | [Challenge](https://www.adventofcode.com/2015/day20) | :star: |        |
+| 21  | RPG Simulator 20XX                     | [Solution](day21.py) | [Challenge](https://www.adventofcode.com/2015/day21) | :star: |        |
