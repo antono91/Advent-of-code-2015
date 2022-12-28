@@ -24,7 +24,7 @@ My solutions to the [Advent of Code](https://www.adventofcode.com/2015) challeng
 | 18  | Like a GIF For Your Yard               | [Solution](day18.py) | [Challenge](https://www.adventofcode.com/2015/day18) | :star: | :star: |
 | 19  | Medicine for Rudolph                   | [Solution](day19.py) | [Challenge](https://www.adventofcode.com/2015/day19) | :star: |        |
 | 20  | Infinite Elves and Infinite Houses     | [Solution](day20.py) | [Challenge](https://www.adventofcode.com/2015/day20) | :star: |        |
-| 21  | RPG Simulator 20XX                     | [Solution](day21.py) | [Challenge](https://www.adventofcode.com/2015/day21) | :star: |        |
-| 22  | RPG Simulator 20XX                     | [Solution](day21.py) | [Challenge](https://www.adventofcode.com/2015/day21) | :star: |        |
-| 23  | Opening the Turing Lock                | [Solution](day23.py) | [Challenge](https://www.adventofcode.com/2015/day23) | :star: |        |
-| 24  | It Hangs in the Balance                | [Solution](day24.py) | [Challenge](https://www.adventofcode.com/2015/day24) | :star: |        |
+| 21  | RPG Simulator 20XX                     | [Solution](day21.py) | [Challenge](https://www.adventofcode.com/2015/day21) | :star: | :star: |
+| 22  | Wizard Simulator 20XX                  | [Solution](day22.py) | [Challenge](https://www.adventofcode.com/2015/day22) |        |        |
+| 23  | Opening the Turing Lock                | [Solution](day23.py) | [Challenge](https://www.adventofcode.com/2015/day23) | :star: | :star: |
+| 24  | It Hangs in the Balance                | [Solution](day24.py) | [Challenge](https://www.adventofcode.com/2015/day24) | :star: | :star: |
