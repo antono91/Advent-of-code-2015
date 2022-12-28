@@ -22,3 +22,5 @@ My solutions to the [Advent of Code](https://www.adventofcode.com/2015) challeng
 | 16  | Aunt Sue                               | [Solution](day16.py) | [Challenge](https://www.adventofcode.com/2015/day16) | :star: | :star: |
 | 17  | No Such Thing as Too Much              | [Solution](day17.py) | [Challenge](https://www.adventofcode.com/2015/day17) | :star: | :star: |
 | 18  | Like a GIF For Your Yard               | [Solution](day18.py) | [Challenge](https://www.adventofcode.com/2015/day18) | :star: | :star: |
+| 19  | Medicine for Rudolph                   | [Solution](day19.py) | [Challenge](https://www.adventofcode.com/2015/day19) | :star: |        |
+| 20  | Infinite Elves and Infinite Houses     | [Solution](day20.py) | [Challenge](https://www.adventofcode.com/2015/day20) | :star: |        |
